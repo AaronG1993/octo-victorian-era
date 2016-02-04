@@ -1,0 +1,8 @@
+@font-face{
+    font-family: "Land Rover Web";
+    src: url('../');
+}
+
+body{
+    background-image: url("../img/bg-pic2.jpg");
+}
